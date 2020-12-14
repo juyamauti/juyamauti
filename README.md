@@ -5,9 +5,7 @@
 - 📈 Estudando Python, R, PowerBI, Tableau, Hadoop, Apache Spark, entre outros 
 - 💗 Interesse nas áreas de **Business Intelligence e Data Analytics**
 - ✉️ juyamauti@gmail.com\
-
 ### Contato\
 [<img align="left" target="_blank" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/61/61109.svg" />](https://www.linkedin.com/in/juliana-yamauti/)\
-
 ### Projetos\
 [Análise exploratória - Youtube trending videos usando Python](https://github.com/juyamauti/YoutubeEDA/blob/main/Youtube_TrendingVideosEDA.ipynb)
