@@ -7,7 +7,7 @@
 
 ### Contato
 
-[<img align="left" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/61/61109.svg" />](https://www.linkedin.com/in/juliana-yamauti/)
+[<img align="left" target="_blank" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/61/61109.svg" />](https://www.linkedin.com/in/juliana-yamauti/)
 
 
 
