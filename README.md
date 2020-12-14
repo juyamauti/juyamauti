@@ -1,4 +1,8 @@
-### Hi there 👋
+### Juliana Yamauti 👋
+
+- 🎓 Formada em Sistemas de Informação, atuo com TI há 8+ anos na área de desenvolvimento de software
+- 💻 Experiência profissional com: SQL, PL/SQL, VBA, HTML, CSS, Java, C#, Javascript, JIRA, Github, Microsoft SQL Server, Visual Studio e Eclipse
+- 📈 Estudando Python, R, PowerBI, Tableau, Hadoop, Apache Spark, entre outros 
 
 <!--
 **juyamauti/juyamauti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
