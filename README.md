@@ -9,5 +9,5 @@
 [<img align="left" target="_blank" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/61/61109.svg" />](https://www.linkedin.com/in/juliana-yamauti/)<br>
 ### Projetos<br>
 [Análise exploratória - Youtube trending videos usando Python](https://github.com/juyamauti/YoutubeEDA/blob/main/Youtube_TrendingVideosEDA.ipynb)<br>
-## DataViz
+### DataViz<br>
 [Projetos de DataViz usando PowerBI e Tableau](https://github.com/juyamauti/dataviz)
